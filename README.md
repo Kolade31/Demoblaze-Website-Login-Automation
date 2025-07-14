@@ -18,7 +18,7 @@ To verify that the login functionality works as expected, users can run the auto
 Reports will be generated automatically in the reports/ directory after running the tests. You can open report.html in a web browser to view detailed results.
 
 ## Project Structure
-The project is organized into a clear directory layout that enhances usability. The login_page.py file contains the LoginPage class, which encapsulates the login logic. The test_demoblaze.py file serves as the entry point to execute the login process and houses the unit tests for the login functionality. This organization facilitates easy navigation and understanding of the project's components.
+The project is organized into a clear directory layout that enhances usability. The login_page.py file contains the LoginPage class, which encapsulates the login logic. The test_demoblaze.py file serves as the entry point to execute the login process. This organization facilitates easy navigation and understanding of the project's components.
 
 ## Conclusion
 In summary, the Demoblaze Selenium Login Automation project provides a valuable tool for automating the login process on the Demoblaze website. With its focus on reliability and maintainability, this project serves as an excellent foundation for further development and enhancement in web automation testing. By following the setup and usage instructions outlined above, users can effectively harness the power of Selenium to streamline their testing processes.
